@@ -2742,7 +2742,7 @@ ${prefix}remini${mono}`
                     }, {
                         quoted: m
                     })
-                } else if (typrmenu === 'v4') {
+                } else if (typemenu === 'v4') {
                     arxzy.relayMessage(m.chat, {
                         scheduledCallCreationMessage: {
                            callType: "AUDIO",
