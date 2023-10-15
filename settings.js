@@ -1,6 +1,6 @@
 /*
    Created By ArxzyDev
-   My Contact wa.me/6289513081052
+   My Contact 6285921879846
    Rxzy-MD V1.1.0
 */
 
@@ -11,10 +11,10 @@ const chalk = require('chalk')
 global.lol = '' // https://api.lolhuman.xyz
 global.xzn = '' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = '6289513081052' // Owner Utama
-global.owner = ['6289513081052', '6283838530788'] // Owner Lainnya
+global.numberowner = '6285921879846' // Owner Utama
+global.owner = ['6285921879846', '6285921879846'] // Owner Lainnya
 global.namaowner = 'Arxzy お-ぎ' // Nama Owner
-global.premium = ["6289513081052"] // Premium User
+global.premium = ["6285921879846"] // Premium User
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
 global.namabot = 'Arxzy-MD' // NickBot
 global.typemenu = 'v2' 
